@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4bd211da-bf07-47c0-88e7-7decbc85945f": {
+      "ProjectGuid": "4bd211da-bf07-47c0-88e7-7decbc85945f",
+      "DisplayName": "Ejer2",
+      "ColorIndex": 0
+    },
+    "562fb2f4-9113-40d0-b30b-1fc4111a4d17": {
+      "ProjectGuid": "562fb2f4-9113-40d0-b30b-1fc4111a4d17",
+      "DisplayName": "Ejer1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

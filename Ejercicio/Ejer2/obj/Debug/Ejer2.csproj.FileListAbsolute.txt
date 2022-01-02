@@ -1,0 +1,8 @@
+C:\Users\JVIETTI\source\repos\Ejercicio\Ejer2\bin\Debug\Ejer2.exe.config
+C:\Users\JVIETTI\source\repos\Ejercicio\Ejer2\bin\Debug\Ejer2.exe
+C:\Users\JVIETTI\source\repos\Ejercicio\Ejer2\bin\Debug\Ejer2.pdb
+C:\Users\JVIETTI\source\repos\Ejercicio\Ejer2\obj\Debug\Ejer2.csproj.AssemblyReference.cache
+C:\Users\JVIETTI\source\repos\Ejercicio\Ejer2\obj\Debug\Ejer2.csproj.SuggestedBindingRedirects.cache
+C:\Users\JVIETTI\source\repos\Ejercicio\Ejer2\obj\Debug\Ejer2.csproj.CoreCompileInputs.cache
+C:\Users\JVIETTI\source\repos\Ejercicio\Ejer2\obj\Debug\Ejer2.exe
+C:\Users\JVIETTI\source\repos\Ejercicio\Ejer2\obj\Debug\Ejer2.pdb
